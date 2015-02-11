@@ -1,0 +1,26 @@
+{
+  "name": "apostrophe-query-cache",
+  "version": "0.1.0",
+  "description": "Cache Apostrophe's mongodb queries, for performance. Cache is cleared automatically when writes occur.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apostrophe-query-cache"
+  },
+  "keywords": [
+    "apostrophe",
+    "mongodb",
+    "query",
+    "cache",
+    "cache"
+  ],
+  "author": "P'unk Avenue LLC",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^0.9.0",
+    "lodash": "^3.1.0"
+  }
+}
